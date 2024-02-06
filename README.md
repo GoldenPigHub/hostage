@@ -1,5 +1,5 @@
 # gp_hostage
-### OX_Lib, OX_Target Fivem hostage script
+### OX Fivem hostage script
 ### [PREVIEW](https://streamable.com/asf9q8)
 
 ### All credit goes to https://github.com/rubbertoe98/FiveM-Scripts/tree/master/TakeHostage 
