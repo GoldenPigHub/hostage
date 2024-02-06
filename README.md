@@ -1,4 +1,4 @@
-# gp_hostage
+# Hostage
 ### OX Fivem hostage script
 ### [PREVIEW](https://streamable.com/asf9q8)
 
